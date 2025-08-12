@@ -46,12 +46,3 @@ The system uses **six core entities**:
 **Version Control:** Git & GitHub
 
 ---
-
-## 📂 Project Structure
-Pathfinder/
-│── backend/ # Java backend source code
-│── frontend/ # UI/UX files
-│── database/ # SQL scripts for PathfinderDB
-│── docs/ # Project documentation & resources
-│── README.md # Project documentation file
-
